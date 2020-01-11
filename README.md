@@ -1,6 +1,27 @@
 # page-test
 Proyecto con Java (Servlet y JSP's), Bootstrap, HTML, CSS, JavaScript, MySQL.
 
+## Esta pagina contiene:
+
+- 9 tests, los cuales proporcionan la cantidad de fallos, aciertos, respuestas sin responder, puntuacion total y la nota final con porcentaje.
+
+- Contiene la funcionalidad de registrarse e iniciar sesion.
+
+- Tiene una seccion para los usuarios registrados, la cual contiene una pagina principal en donde los usuarios podran encontrar la informacion sobre los test en diferentes tablas, en la cual se dejan algunas recomendaciones para aprender mas!
+Dentro de estas tablas hay PDFs, videos, paginas recomendadas para facilitar el aprendizaje de los temas que se muestran en los test.
+
+- Ademas, contiene la seccion de preguntas y respuestas en donde el usuario podra verificar la correccion realizada en los test.
+
+- Esta pagina cuenta con links distribuidos por diferentes secciones en toda la pagina, para que los usuarios puedan navegar en la pagina sin dificultades y mas rapido.
+
+- Contiene alertas, explicaciones e instrucciones ubicadas en los diferentes aside que contiene la pagina para que el usuario no tenga ninguna duda al respecto de todas las funcionalidades y opciones que posee dentro de la pagina.
+
+Lo que se busca en Infotest es que los usuarios tengan acceso a los test sin dificultades, siempre ofreciendole al mismo tiempo la posiblidad de mejorar su aprendizaje y de mejores resultados en los test si se registra en la pagina, y para acceder a mas informacion relacionada con los mismos.
+
+Ademas, se espera seguir avanzando con el proyecto agregandole la funcionalidad de modificar su perfil y eliminarlo en caso de que lo deseen, junto con la posibilidad futura de crear una comunidad de desarrolladores en la que se puedan ayudar atraves de comentarios en una nueva seccion que se va a llamar: "Comunidad Infotest".
+
+## ¡La finalidad del proyectio es aprender mas junto con otros desarrolladores o de manera autodidacta, con el material que se les ira proporcionando y actualizando a los usuarios, tambien motivar con los test a los desarrolladores para formar parte de Infotest!
+
 ## Visualizacion de la seccion de "Inicio":
 
 ![visualizacion pag1](https://user-images.githubusercontent.com/58377353/72195091-87658880-33ef-11ea-9c60-3fa5dbd1b684.png)
