@@ -20,7 +20,7 @@ Lo que se busca en Infotest es que los usuarios tengan acceso a los test sin dif
 
 Ademas, se espera seguir avanzando con el proyecto agregandole la funcionalidad de modificar su perfil y eliminarlo en caso de que lo deseen, junto con la posibilidad futura de crear una comunidad de desarrolladores en la que se puedan ayudar atraves de comentarios en una nueva seccion que se va a llamar: "Comunidad Infotest".
 
-## ¡La finalidad del proyectio es aprender mas junto con otros desarrolladores o de manera autodidacta, con el material que se les ira proporcionando y actualizando a los usuarios, tambien motivar con los test a los desarrolladores para formar parte de Infotest!
+## ¡La finalidad del proyecto es aprender mas junto con otros desarrolladores o de manera autodidacta, con el material que se les ira proporcionando y actualizando a los usuarios, tambien motivar con los test a los desarrolladores para formar parte de Infotest!
 
 ## Visualizacion de la seccion de "Inicio":
 
